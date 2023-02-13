@@ -1,3 +1,5 @@
+![Github All Downloads](https://img.shields.io/github/downloads/VALERA771/Random-Name-Broadcast/total.svg?style=flat)
+
 # Random-Name-Broadcast
 Broadcasts random player's nickname
 
